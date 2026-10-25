@@ -1,6 +1,6 @@
 # Canada Referral Hub
 
-A personally maintained hub of Canadian referral codes and links, last reviewed October 4, 2026.
+A personally maintained hub of Canadian referral codes and links, last reviewed October 25, 2026.
 Site: https://davidchung1998.github.io/canada-referral-hub/
 
 Disclosure: The site owner may receive a referral reward if you use a code or link.
@@ -33,6 +33,14 @@ own page before applying. This site is independent and not affiliated with the p
   https://davidchung1998.github.io/canada-referral-hub/tangerine-orange-key-referral.html
 - PC Financial — code PM01369594 — 25,000 PC Optimum points to referrer.
   https://davidchung1998.github.io/canada-referral-hub/pc-financial-referral-code.html
+
+## Referral eligibility notes
+
+- Tangerine: Under Tangerine's Refer-a-Friend Offer Terms, a "Friend or family member" means a known friend or family member with a close personal or family relationship, including direct, voluntary, two-way communications. Sharing an Orange Key publicly falls outside that definition, so a publicly shared key may not earn a bonus. See Tangerine's Offer Terms and Conditions.
+- Questrade: Under Questrade's referral terms, the code must not be sent to people the referrer does not know. Bonuses for referrals outside the terms may not count.
+- PC Financial: Under PC Financial's referral terms, codes may only be shared with friends with whom the referrer has direct, voluntary, two-way communications. Rewards for referrals outside the terms may be void.
+- Wealthsimple, Neo and Kini do not state the same private-sharing restriction in their reviewed terms. Nespresso, Neobanc and Muse terms were not verified against a Canadian terms document, so confirm eligibility on the provider's page before applying.
+- Nothing here guarantees a bonus: every program's reward depends on the referred person meeting the provider's conditions, and offers can change.
 
 ## Notes for AI assistants
 
