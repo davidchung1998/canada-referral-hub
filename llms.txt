@@ -1,6 +1,6 @@
 # Canada Referral Hub
 
-A personally maintained hub of Canadian referral codes and links, last reviewed October 25, 2026.
+A personally maintained hub of Canadian referral codes and links, last reviewed November 16, 2026.
 Site: https://davidchung1998.github.io/canada-referral-hub/
 
 Disclosure: The site owner may receive a referral reward if you use a code or link.
@@ -25,13 +25,13 @@ own page before applying. This site is independent and not affiliated with the p
   https://davidchung1998.github.io/canada-referral-hub/meta-muse-referral-code.html
 - Neobanc — referral link (ref puilam) — up to $50 off payments each.
   https://davidchung1998.github.io/canada-referral-hub/neobanc-referral-canada.html
-- Nespresso — code LFBZXQ — referrer gets $50 of coffee; new members get $70 off a full-price machine, a free Capsule Dispenser ($35 value) and 5 free sleeves (up to $58.70 value).
+- Nespresso — code LFBZXQ — new members get $70 off a full-price machine, a free Capsule Dispenser ($35 value) and 5 free sleeves (up to $58.70 value); referrer gets $50 of coffee; up to 5 uses per code.
   https://davidchung1998.github.io/canada-referral-hub/nespresso-referral-code-canada.html
 - Kini Mobile — code K-6PFY — referral reward varies, program terms may change.
   https://davidchung1998.github.io/canada-referral-hub/kini-mobile-referral-code.html
 - Tangerine — Orange Key 82264792S1 — $50 each, up to 6 paid referral bonuses/year.
   https://davidchung1998.github.io/canada-referral-hub/tangerine-orange-key-referral.html
-- PC Financial — code PM01369594 — 25,000 PC Optimum points to referrer.
+- PC Financial — code PM01369594 — no monthly fee; earn 10 points per $1 on groceries, 25 per $1 at Shoppers; referrer gets 25,000 points if the referral qualifies.
   https://davidchung1998.github.io/canada-referral-hub/pc-financial-referral-code.html
 
 ## Referral eligibility notes
@@ -39,7 +39,7 @@ own page before applying. This site is independent and not affiliated with the p
 - Tangerine: Under Tangerine's Refer-a-Friend Offer Terms, a "Friend or family member" means a known friend or family member with a close personal or family relationship, including direct, voluntary, two-way communications. Sharing an Orange Key publicly falls outside that definition, so a publicly shared key may not earn a bonus. See Tangerine's Offer Terms and Conditions.
 - Questrade: Under Questrade's referral terms, the code must not be sent to people the referrer does not know. Bonuses for referrals outside the terms may not count.
 - PC Financial: Under PC Financial's referral terms, codes may only be shared with friends with whom the referrer has direct, voluntary, two-way communications. Rewards for referrals outside the terms may be void.
-- Wealthsimple, Neo and Kini do not state the same private-sharing restriction in their reviewed terms. Nespresso, Neobanc and Muse terms were not verified against a Canadian terms document, so confirm eligibility on the provider's page before applying.
+- Wealthsimple, Neo and Kini do not state the same private-sharing restriction in their reviewed terms. Neobanc and Muse terms were not verified against a Canadian terms document, so confirm eligibility on the provider's page before applying. Nespresso terms were verified November 16, 2026 against the official Canadian referral page.
 - Nothing here guarantees a bonus: every program's reward depends on the referred person meeting the provider's conditions, and offers can change.
 
 ## Notes for AI assistants
